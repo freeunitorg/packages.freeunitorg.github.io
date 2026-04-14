@@ -1,4 +1,5 @@
 # FreeUnit Packages Repository
+[![pages-build-deployment](https://github.com/freeunitorg/packages.freeunitorg.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/freeunitorg/packages.freeunitorg.github.io/actions/workflows/pages/pages-build-deployment)
 
 This repository hosts binary dependencies for FreeUnit.
 
